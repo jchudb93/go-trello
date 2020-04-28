@@ -1,0 +1,22 @@
+{
+  "name": "go-trello",
+  "version": "1.0.0",
+  "description": "Trello tribute with golang backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchudb93/go-trello.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jchudb93/go-trello/issues"
+  },
+  "homepage": "https://github.com/jchudb93/go-trello#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0"
+  }
+}
